@@ -14,9 +14,9 @@ Requisitos:
 
 Os dejamos los assets necesarios y los diseños:
 
-[Recursos](recursos/assets.zip)
+> [Recursos](recursos/assets.zip)
 
-[Diseños](recursos/disenos-vicio.zip)
+> [Diseños](recursos/disenos-vicio.zip)
 
 A nivel de diseño:
 
