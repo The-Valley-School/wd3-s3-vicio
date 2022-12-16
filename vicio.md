@@ -18,6 +18,8 @@ Os dejamos los assets necesarios y los diseños:
 
 > [Diseños](recursos/disenos-vicio.zip)
 
+> [Textos](recursos/textos.txt)
+
 A nivel de diseño:
 
 - La fuente es Arial, tendréis que revisar si se encuentra entre las fuentes compatibles con todos los navegadores para ver si hace falta o no importarla.
